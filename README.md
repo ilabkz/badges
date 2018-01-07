@@ -1,3 +1,3 @@
 # Кнопки AppStore и GooglePlay (Badges)
 
-Формат: .svg
+Формат: .svg 
